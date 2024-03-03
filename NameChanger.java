@@ -1,9 +1,9 @@
-import java.util.*; //MAHMUT ALPEREN ÇAVUÞ 210408044
+import java.util.*; //MAHMUT ALPEREN Ã‡AVUÃž 210408044
 import java.io.*;
 import java.nio.file.Files;
 
 
-public class project4 {
+public class NameChanger {
 
 	public static void main(String[] args) {
 		Scanner scan= new Scanner(System.in);
